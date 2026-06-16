@@ -1,0 +1,46 @@
+body {
+      background-color:lightpink;
+      color: white;
+      font-family: monaco;
+
+}
+
+
+input, textarea {
+      font-family: monaco;
+      background-color: #3f105d;
+      color: white;
+      border-radius: 10px;
+}
+
+
+form, header, footer, section, nav {
+              background-color: purple;
+              width: 80%;
+              padding: 20px 30px 40px 30px;
+              margin-left: 10%;
+              border-radius: 20px;
+}
+
+form {
+      width: 50%;
+      margin-left: 25%;
+}
+
+
+nav {
+      padding: 30px;
+}
+
+
+nav a {
+        text-decoration: none;
+}
+
+li a, nav a{
+      color: white;
+}
+
+img {
+  width: 1000px;
+}
