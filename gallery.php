@@ -9,11 +9,13 @@
             <br><br>
         <section>
             <?php
-                for ($i=1; $i<=19; $i++) {
+                for ($i=1; $i<=16; $i++) {
                     echo "
                         <img src='images/img - $i.jpeg'>
-                        <br>
                     ";
+                    if ($i % 4 == 0) {
+                        echo "<br>";
+                    }
                 }
             ?>
         </section>
