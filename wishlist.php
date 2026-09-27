@@ -10,8 +10,14 @@
     <section>
       <h1>Malcolm's Wishlist</h1>
       <ol>
-                
-        <!-- <li>A comfortable (gaming) chair</li><br> not until I have my own accomodation-->
+
+        <li>
+          Climbing Shoes
+          <ul>
+            <li>Size 7.5</li>
+            <li>Purple</li>
+          </ul>
+        </li>
 
         <li>
             Death Stranding
